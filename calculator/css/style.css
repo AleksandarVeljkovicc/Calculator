@@ -1,0 +1,52 @@
+#container_1{	
+	border-radius: 10px 10px 10px 10px;	
+		width: 300px;
+		height: 300px;
+		margin: auto;
+		border:solid;
+		border-color: #d9d9d9;
+		background-color: #d9d9d9;
+
+	}
+	.message {
+		color:red; font-weight:bold;
+	}
+	#container_2{
+		background-color: white;
+		border-radius: 10px 10px 10px 10px;	
+		width: 260px;
+		height: 30px;
+		border: solid;
+		margin-top: 5%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		border-width: 1px;
+	}
+		#container_3{
+			margin: auto;
+			width: 260px;
+			height: 30px;
+	}
+
+
+	.controls{
+		margin-top: 5%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	label{
+		text-align: center;
+	}
+
+	#sub{
+		width: 260px;
+		height: 40px;
+		font-size: 17px;
+	}
+	#par{
+		display: inline;
+		font-size:21px
+	}
